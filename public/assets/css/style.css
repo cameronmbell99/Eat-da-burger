@@ -1,0 +1,54 @@
+img{
+    width: 500px;
+}
+
+body{
+    text-align: center;
+    background-color: #f6f6f6;
+    color: #5550a8;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+#submit{
+    width: 160px;
+    height: 40px;
+}
+
+.change-cast{
+    margin-left: 10px;
+}
+
+button{
+    color: #5550a8;
+    border-radius: 5px;
+    background-color: #c3c3d4;
+
+}
+
+input{
+    border-radius: 5px;
+    width: 440px;
+    height: 100px;
+}
+
+#isCast{
+    margin-bottom: 50px;
+}
+
+#notCast{
+    margin-bottom: 50px;
+}
+
+p{
+    margin-top: 10px;
+}
